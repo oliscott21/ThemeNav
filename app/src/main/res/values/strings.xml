@@ -1,0 +1,32 @@
+<!--
+    @author: Oliver Lester
+    @description: This file holds all the strings of the main activity
+-->
+
+<resources>
+    <string name="app_name">ThemeNav</string>
+    <string name="main">Winslow, AZ Page</string>
+    <string name="res">Notable Restaurants</string>
+    <string name="loc">Notable Locations</string>
+    <string name="location">Winslow, Arizona</string>
+    <string name="pic1_description">Picture of Standing on the Corner</string>
+    <string name="town_description">A small town of nearly 10,000 people. Winslow sits in the path of the I-40. Take a drive through downtown on Historic Route 66. Experience restaurants and sites that manage to capture the essence of the road they find themselves on. And don\'t forget to visit the corner that was immortalized by the rock band The Eagles.</string>
+    <string name="lp_description">One of many Harvey Houses. La Posada acts as the only Harvey House that acts as it was originally intended, that being a hotel. During your stay, enjoy contemporary Southwest Cuisine at the Turquoise Room.</string>
+    <string name="tex_description">One of the many sites that bring a sense of traveling cross country during the early life of automobiles</string>
+    <string name="button_1">Notable Restaurants</string>
+    <string name="button_2">Notable Locations</string>
+    <string name="loc1">Standing on the Corner</string>
+    <string name="loc2">9/11 Remembrance Garden</string>
+    <string name="loc3">Homolovi State Park</string>
+    <string name="loc4">Rock Art Canyon Ranch</string>
+    <string name="loc5">McHood Reservoir</string>
+    <string name="loc6">Old Trails Museum</string>
+    <string name="loc7">First St. Pathway Park</string>
+    <string name="loc8">Little Painted Desert</string>
+    <string name="loc9">Meteor Crater</string>
+    <string name="loc10">Winslow Visitor Center</string>
+    <string name="res1">Relic Road</string>
+    <string name="res2">Brown Mug</string>
+    <string name="res3">The RootBeer Stand</string>
+    <string name="res4">Falcon Restaurant and Lounge</string>
+</resources>

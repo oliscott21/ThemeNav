@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    @author: Oliver Lester
+    @description: This file holds all the theme of the app
+-->
+
+<resources>
+    <style name="NavbarTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/sky</item>
+        <item name="colorPrimaryVariant">@color/sky</item>
+        <item name="colorOnPrimary">@color/sky</item>
+        <item name="android:navigationBarColor">@color/sky</item>
+    </style>
+</resources>
